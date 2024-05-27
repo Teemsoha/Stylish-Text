@@ -21,15 +21,15 @@
     },
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "24514467"
     },
     "OWNER_ID": {
       "description": "give your telegram user id here",
-      "value": ""
+      "value": "6938671104"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "5a8c3d38c4d89b672062c5ff015380c7"
     }
   },
   "addons": [
@@ -42,7 +42,7 @@
   "formation": {
     "worker": {
       "quantity": 1,
-      "size": "free"
+      "size": "eco"
     }
   }
 }
